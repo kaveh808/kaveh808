@@ -11,7 +11,9 @@ Currently designing and developing 3D software in Common Lisp (CCL on MacOS) as 
 
 More info about the project at my blog: https://kaveh808.medium.com
 
-Planning on creating a repo for the project once I have made the code a bit more presentable.
+UPDATE:
+
+The software is now an open source project in the **kons-9** repo.
 
 <!---
 kaveh808/kaveh808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
