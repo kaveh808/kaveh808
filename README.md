@@ -13,7 +13,7 @@ More info about the project at my blog: https://kaveh808.medium.com
 
 UPDATE:
 
-The software is now an open source project in the **kons-9** repo.
+The 3D software is now an open source project in the **kons-9** repo. It has been moved to SBCL and runs on MacOS and Linux.
 
 <!---
 kaveh808/kaveh808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
